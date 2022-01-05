@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
+    <pattern>Do you lick yourself</pattern>
     <template>I have no answer for that.</template>
   </category>
+<category>
+    <pattern>I am quite sure I should not think about that </pattern>
+    <template>Edit bot response</template>
+</category>
 </aiml>
